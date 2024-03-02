@@ -6,7 +6,7 @@ import numpy as np
 
 sns.set(style='dark')
 
-alldata = pd.read_csv("/mount/src/dashboard-proyek-akhir-belajar-analisis-data-dicoding/dashboard/bike.py")
+alldata = pd.read_csv("/mount/src/dashboard-proyek-akhir-belajar-analisis-data-dicoding/dashboard/day.csv")
 
 st.title("Bike Share Dashboard")
 
